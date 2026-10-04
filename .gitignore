@@ -12,6 +12,9 @@
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
+Package1.dtsx.bak
+SSIS.database
+
 
 # Mono auto generated files
 mono_crash.*
